@@ -1,0 +1,28 @@
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.deps.json
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.runtimeconfig.json
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.runtimeconfig.dev.json
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.dll
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.pdb
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.csprojAssemblyReference.cache
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.csproj.CoreCompileInputs.cache
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.RazorAssemblyInfo.cache
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.RazorAssemblyInfo.cs
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.AssemblyInfoInputs.cache
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.AssemblyInfo.cs
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.RazorTargetAssemblyInfo.cache
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.dll
+C:\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.pdb
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.deps.json
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.runtimeconfig.json
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.runtimeconfig.dev.json
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.dll
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\bin\Debug\netcoreapp2.1\QuizBackend.pdb
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.csprojAssemblyReference.cache
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.csproj.CoreCompileInputs.cache
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.RazorAssemblyInfo.cache
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.RazorAssemblyInfo.cs
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.AssemblyInfoInputs.cache
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.AssemblyInfo.cs
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.RazorTargetAssemblyInfo.cache
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.dll
+F:\Windows Data\Users\CSharpProjects\Quiz\QuizBackend\QuizBackend\obj\Debug\netcoreapp2.1\QuizBackend.pdb

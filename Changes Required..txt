@@ -1,0 +1,6 @@
+Many Changes could be done in current Application
+1] Automatic updating Quizzes and questions Component after adding quiz or question.
+2] Dialog for Errors
+3] TESTing for both backend and front end.
+4] Loggers.(try catch for backend)
+  Work is still going on.

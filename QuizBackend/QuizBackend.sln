@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizBackend", "QuizBackend\QuizBackend.csproj", "{FFCD5D96-DA74-4911-9270-68E55F795D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCD5D96-DA74-4911-9270-68E55F795D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCD5D96-DA74-4911-9270-68E55F795D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCD5D96-DA74-4911-9270-68E55F795D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCD5D96-DA74-4911-9270-68E55F795D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68E9784-22BF-4C49-929F-E8EE5ABD2D23}
+	EndGlobalSection
+EndGlobal
